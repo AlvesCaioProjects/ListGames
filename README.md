@@ -11,7 +11,7 @@ O programa retorna os dados em API Rest de acordo com o endpoint requisitado e f
 ## endpoint '/games'
 ![endpoint-games](https://github.com/AlvesCaioProjects/ListGames/assets/136586209/601a5f84-72af-4c53-a84a-e31e3a5d3bae) 
 
-## endpoint '/games/{gameId}'
+## endpoint '/games/{id}'
 ![endpoint-games-id](https://github.com/AlvesCaioProjects/ListGames/assets/136586209/f4f520b7-c89c-4051-8512-5539995b847e)
 
 ## endpoint '/lists'
